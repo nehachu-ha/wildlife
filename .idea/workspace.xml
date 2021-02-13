@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e82dbdae-5924-48ae-9c0f-540a3c97fb46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/Frame.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Rectangle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Vector.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bird.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/deer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/footer-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pinterest.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/squirrel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/telegram.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +58,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612263875904</updated>
-      <workItem from="1612263876970" duration="8670000" />
+      <workItem from="1612263876970" duration="9042000" />
+      <workItem from="1612356380753" duration="1748000" />
+      <workItem from="1613131095903" duration="8502000" />
     </task>
     <servers />
   </component>
