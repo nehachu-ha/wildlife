@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e82dbdae-5924-48ae-9c0f-540a3c97fb46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/bird.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/deer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/footer-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pinterest.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/squirrel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/telegram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/search.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Vector.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -60,8 +51,16 @@
       <updated>1612263875904</updated>
       <workItem from="1612263876970" duration="9042000" />
       <workItem from="1612356380753" duration="1748000" />
-      <workItem from="1613131095903" duration="8502000" />
+      <workItem from="1613131095903" duration="14666000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: add sections Latest articles, Get notified, Footer">
+      <created>1613218429205</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613218429205</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,5 +68,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="feat: add sections Latest articles, Get notified, Footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add sections Latest articles, Get notified, Footer" />
   </component>
 </project>
