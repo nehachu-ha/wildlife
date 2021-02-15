@@ -36,7 +36,7 @@ h1 {
 .header {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 110px;
+    margin-bottom: 109px;
     margin-top: 10px;
 }
 
@@ -114,7 +114,7 @@ a:hover {
     line-height: 27px;
     color: #F7F7F7;
     outline: none;
-    padding: 10px 23px;
+    padding: 9px 23px;
 }
 
 .navigation__list-btn:hover {
@@ -203,6 +203,7 @@ a:hover {
     text-align: center;
     color: #666666;
     margin-bottom: 120px;
+    margin-top: 0;
 }
 
 .slider {
@@ -228,7 +229,7 @@ a:hover {
     line-height: 36px;
     position: absolute;
     z-index: 7;
-    top: 221px;
+    top: 225px;
     color: #F7F7F7;
 }
 
