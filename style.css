@@ -36,7 +36,8 @@ h1 {
 .header {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 120px;
+    margin-bottom: 110px;
+    margin-top: 10px;
 }
 
 .logo {
@@ -148,7 +149,7 @@ a:hover {
     font-weight: normal;
     font-size: 18px;
     line-height: 27px;
-    margin-bottom: 65px;
+    margin-bottom: 49px;
 }
 
 .survival__btn {
@@ -210,27 +211,35 @@ a:hover {
     align-items: center;
     padding-left: 120px;
     padding-right: 120px;
-    margin-bottom: 239px;
+    margin-bottom: 230px;
 }
 
 .slider__card {
     position: relative;
     display: flex;
     justify-content: center;
+    width: 300px;
+    height: 360px;
 }
 
 .slider__card-heading {
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 36px;
     position: absolute;
     z-index: 7;
-    top: 240px;
+    top: 221px;
     color: #F7F7F7;
 }
 
 .slider__card-content {
     position: absolute;
     z-index: 7;
-    top: 287px;
+    top: 276px;
     color: #F7F7F7;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 27px;
 }
 
 .slider__arrow{
@@ -266,8 +275,8 @@ a:hover {
 }
 
 .get__notified-input {
-    width: 560px;
-    height: 60px;
+    width: 540px;
+    height: 62px;
     margin-bottom: 239px;
     border: 1px solid #666666;
     border-right: none;
@@ -337,6 +346,7 @@ a:hover {
 }
 
 .footer__nav-list {
+    padding-left: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -351,6 +361,7 @@ a:hover {
     display: flex;
     align-items: center;
     margin-left: 93px;
+    padding-left: 0;
 }
 
 .footer__social-item {
