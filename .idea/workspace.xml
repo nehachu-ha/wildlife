@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e82dbdae-5924-48ae-9c0f-540a3c97fb46" name="Default Changelist" comment="fix: change survival slider">
+    <list default="true" id="e82dbdae-5924-48ae-9c0f-540a3c97fb46" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -49,7 +49,7 @@
       <workItem from="1612263876970" duration="9042000" />
       <workItem from="1612356380753" duration="1748000" />
       <workItem from="1613131095903" duration="15086000" />
-      <workItem from="1613404646780" duration="3033000" />
+      <workItem from="1613404646780" duration="3737000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add sections Latest articles, Get notified, Footer">
       <created>1613218429205</created>
@@ -72,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613406826553</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix: fixed some bugs in styles">
+      <created>1613408046499</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613408046499</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +90,7 @@
     <MESSAGE value="feat: add sections Latest articles, Get notified, Footer" />
     <MESSAGE value="fix: change slider, BEM, input" />
     <MESSAGE value="fix: change survival slider" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: change survival slider" />
+    <MESSAGE value="fix: fixed some bugs in styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: fixed some bugs in styles" />
   </component>
 </project>

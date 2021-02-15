@@ -83,12 +83,13 @@ a:hover {
     text-align: center;
 }
 
+
 .navigation__list li:nth-child(even) {
     margin-left: 61px;
 }
 
 .navigation__list li:nth-child(odd) {
-    margin-left: 60px;
+    margin-left: 66px;
 }
 
 .navigation__list-search {
@@ -140,7 +141,7 @@ a:hover {
     line-height: 72px;
     letter-spacing: 2px;
     color: #CD6326;
-    margin-bottom: 51px;
+    margin-bottom: 50px;
 }
 
 .survival__article {
@@ -212,7 +213,7 @@ a:hover {
     align-items: center;
     padding-left: 120px;
     padding-right: 120px;
-    margin-bottom: 230px;
+    margin-bottom: 240px;
 }
 
 .slider__card {
